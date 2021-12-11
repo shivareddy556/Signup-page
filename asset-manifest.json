@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Signup-page/static/css/main.3b3ade2c.chunk.css",
+    "main.js": "/Signup-page/static/js/main.8843b690.chunk.js",
+    "main.js.map": "/Signup-page/static/js/main.8843b690.chunk.js.map",
+    "runtime-main.js": "/Signup-page/static/js/runtime-main.ba87516c.js",
+    "runtime-main.js.map": "/Signup-page/static/js/runtime-main.ba87516c.js.map",
+    "static/js/2.6c6b122d.chunk.js": "/Signup-page/static/js/2.6c6b122d.chunk.js",
+    "static/js/2.6c6b122d.chunk.js.map": "/Signup-page/static/js/2.6c6b122d.chunk.js.map",
+    "static/js/3.5f596270.chunk.js": "/Signup-page/static/js/3.5f596270.chunk.js",
+    "static/js/3.5f596270.chunk.js.map": "/Signup-page/static/js/3.5f596270.chunk.js.map",
+    "index.html": "/Signup-page/index.html",
+    "static/css/main.3b3ade2c.chunk.css.map": "/Signup-page/static/css/main.3b3ade2c.chunk.css.map",
+    "static/js/2.6c6b122d.chunk.js.LICENSE.txt": "/Signup-page/static/js/2.6c6b122d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Signup-page/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba87516c.js",
+    "static/js/2.6c6b122d.chunk.js",
+    "static/css/main.3b3ade2c.chunk.css",
+    "static/js/main.8843b690.chunk.js"
+  ]
+}
