@@ -1,0 +1,195 @@
+input[type=email], input[type=password] {
+    width: 32pc;
+    padding: 12px 20px;
+    border-radius: 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  .btn {
+    background-color: rgb(47, 0, 255);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 32pc;
+    font-size: large;
+    border-radius: 10px;
+    
+  }
+  .btns{
+    background-color: rgb(47, 0, 255);
+    color: white;
+    padding: 14px 30px 10px 30px;
+    font-size: large;
+    border-radius: 10px;
+    margin-left: 15px;
+  }
+  .btnsclass{
+      margin-left: 68pc;
+    margin-top: 25px;
+  }
+  .google{
+    background-color:  rgba(0, 255, 191, 0.637);
+    border: none;
+    color:  #6A5ACD;
+    padding: 14px 20px;
+    font-size: large;
+    border-radius: 10px;
+    
+    width: 32pc;
+    
+  }
+  .gbtn{
+    margin-top: 2pc;
+    margin-right: 7pc;
+  }
+  .fa-fw{
+      color: red;
+      font-size: large;
+  }
+  h2{
+   
+    margin-top: 3pc;
+
+  }
+  .box{
+    margin-right: 374px;
+    margin-top: 1pc;
+    margin-bottom: 30px;
+  }
+  .btn:hover {
+    opacity: 0.8;
+  }
+  label{
+      margin-right: 25pc;
+  }
+  .paragraph{
+      margin-top: 25px;
+  }
+
+  
+  .container {
+    padding: 16px;
+    width: 33%;
+    height: 60%;
+    padding: 15px;
+    border-radius: 10px;
+    margin-left: 28pc;
+    margin-top: 3pc;
+    background-color:  white;
+    box-shadow: 10px 10px 25px 25px  whitesmoke;
+  }
+  .center{
+  overflow-x: hidden;
+  }
+  
+  span.psw {
+    margin-right: 60pc;
+    padding-top: 16px;
+  }
+  .psw{
+    margin-right: 10pc;
+    font-size: large;
+    margin-top: 25px;
+  }
+
+  @media screen and (max-width: 768px) {
+    .btnsclass{
+        margin-left:14px;
+      margin-top: 25px;
+    }
+    .container {
+        margin-left: 1px;
+        width: auto;
+       
+      }
+      input[type=email], input[type=password] {
+        width: 340px;
+       
+      }
+      .btn {
+       
+        width: 340px;
+        font-size: large;
+        border-radius: 10px;
+        
+      }
+      .box{
+        margin-right: 193px;
+      margin-bottom: 14px;
+      margin-top: 2px;
+       
+      }
+      .psw{
+        margin-right: 0px;
+        font-size: large;
+        margin-top: 25px;
+      }
+      .gbtn{
+        margin-top: 2pc;
+        margin-right: 24px;
+      }
+      .google{
+          width: 340px;
+          margin-left: 6px;
+      }
+      label{
+        margin-right: 270px;
+    }
+
+  }
+  @media screen and (min-width: 770px) and (max-width: 1250px) {
+    .btnsclass{
+        margin-left:624px;
+      margin-top: 25px;
+    }
+    .container {
+        margin-left: 208px;
+        width: 57%;
+    }
+    label{
+        margin-right: 431px;
+    }
+    .psw{
+        margin-right: 6px;
+       
+      }
+      .google{
+       margin-left: 19px;
+       margin-right: 0px;
+     
+      }
+      .gbtn{
+        margin-top: 2pc;
+        margin-right: 0;
+      }
+  }
+  @media screen and (min-width: 1250px) and (max-width: 1440px) {
+    .btnsclass{
+        margin-left:66pc;
+      
+    }
+    input[type=email], input[type=password] {
+        width: 30pc;
+       
+      }
+      .box{
+          margin-right: 340px;
+        }
+        .btn{
+            width: 30pc;
+        }
+        .psw{
+            margin-right: 5pc;
+        }
+        .gbtn{
+            margin-right: 2pc;
+        }
+        .google{
+            width: 30pc;
+        }
+  }
