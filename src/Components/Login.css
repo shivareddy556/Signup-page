@@ -20,6 +20,10 @@ input[type=email], input[type=password] {
     border-radius: 10px;
     
   }
+  .backimage{
+    background-color: white;
+  }
+  
   .btns{
     background-color: rgb(47, 0, 255);
     color: white;
@@ -81,10 +85,15 @@ input[type=email], input[type=password] {
     margin-left: 28pc;
     margin-top: 3pc;
     background-color:  white;
-    box-shadow: 10px 10px 25px 25px  whitesmoke;
+    /* box-shadow: 10px 10px 25px 25px  whitesmoke; */
+    box-shadow: 4px 4px 4px 4px  #aaaaaa;
   }
   .center{
   overflow-x: hidden;
+  background-image: url("https://www.nicepng.com/png/full/859-8597342_blue-semicircle-circle.png");
+  background-repeat: no-repeat;
+  background-position-x: 8pc;
+  background-position-y: 20pc;
   }
   
   span.psw {
@@ -124,6 +133,13 @@ input[type=email], input[type=password] {
       margin-top: 2px;
        
       }
+      .center{
+        background-image: url("https://www.nicepng.com/png/full/859-8597342_blue-semicircle-circle.png");
+        background-repeat: no-repeat;
+        background-position-x: -4pc;
+        box-sizing: border-box;
+        overflow-y: hidden;
+      }
       .psw{
         margin-right: 0px;
         font-size: large;
@@ -157,6 +173,13 @@ input[type=email], input[type=password] {
     .psw{
         margin-right: 6px;
        
+      }
+      .center{
+        background-image: url("https://www.nicepng.com/png/full/859-8597342_blue-semicircle-circle.png");
+        background-repeat: no-repeat;
+        background-position-x: -4pc;
+        box-sizing: border-box;
+        overflow-y: hidden;
       }
       .google{
        margin-left: 19px;
